@@ -15,5 +15,5 @@ This project presents an interactive dashboard that analyzes the distribution of
 - **SQL** for data extraction and analysis
 
 ## Screenshots
-![Dashboard-1](assets/Dashboard_1.png)
-![Dashboard-2](assets/Dashboard_2.png)
+![Dashboard-1](Assets/Dashboard_1.png)
+![Dashboard-2](Assets/Dashboard_2.png)
