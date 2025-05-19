@@ -14,7 +14,6 @@ This project presents an interactive dashboard that analyzes the distribution of
 - **Excel** for data cleaning and preparation
 - **SQL** for data extraction and analysis
 
-## Installation:
-1. Clone the repository to your local machine.
-2. Open the Power BI report file to view and interact with the dashboard.
-3. Ensure that the necessary datasets are connected to the report.
+## Screenshots
+![Dashboard-1](assets/Dashboard_1.png)
+![Dashboard-2](assets/Dashboard_2.png)
